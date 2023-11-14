@@ -1,0 +1,11 @@
+[
+    {
+        "label": "essa_e_minha_funcao",
+        "kind": 2,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "def essa_e_minha_funcao():\n    print(\"oii\")",
+        "detail": "example",
+        "documentation": {}
+    }
+]
